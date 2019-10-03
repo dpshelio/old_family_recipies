@@ -4,5 +4,6 @@ Set of recipes as given by my gramma.
 
 - Pizzas
    - [base](./pizzas/base.md)
-- Sauces (TODO)
+- Sauces
+   - [pesto](./sauces/pesto.md)
 - spreads (TODO)
